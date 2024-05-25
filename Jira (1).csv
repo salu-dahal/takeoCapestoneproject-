@@ -1,0 +1,11 @@
+Issue Type,Issue key,Issue id,Summary,Assignee,Assignee Id,Reporter,Reporter Id,Priority,Status,Resolution,Created,Updated,Due date
+Subtask,SCRUM-10,10009,Implemented the use cases,Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Medium,Done,Done,23/May/24 5:57 PM,23/May/24 5:57 PM,
+Subtask,SCRUM-9,10008,created schema ,Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Medium,Done,Done,23/May/24 5:56 PM,23/May/24 5:57 PM,
+Story,SCRUM-8,10007,Redshift connection,Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Medium,Done,Done,23/May/24 5:54 PM,23/May/24 5:56 PM,
+Subtask,SCRUM-7,10006,Aggregated data (Gold layer),Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Medium,Done,Done,21/May/24 8:02 PM,23/May/24 4:33 PM,
+Subtask,SCRUM-6,10005,Data cleansing and validation (Silver Layer),Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Medium,Done,Done,21/May/24 7:57 PM,23/May/24 12:18 PM,
+Subtask,SCRUM-5,10004,data ingestion to S3 (Bronze layer),Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Medium,Done,Done,21/May/24 7:56 PM,23/May/24 12:17 PM,
+Story,SCRUM-4,10003,Use case Implementation,Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Medium,Done,Done,21/May/24 7:55 PM,23/May/24 4:34 PM,
+Subtask,SCRUM-3,10002,Design document,Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Medium,Done,Done,21/May/24 7:47 PM,21/May/24 7:54 PM,
+Subtask,SCRUM-2,10001,Specification documentation,Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Medium,Done,Done,21/May/24 7:47 PM,21/May/24 7:51 PM,
+Story,SCRUM-1,10000,Documentation,Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Saalu Dahal,712020:506006e7-9e22-4aa0-9cfe-ba4a719983d6,Medium,Done,Done,21/May/24 7:45 PM,23/May/24 11:40 AM,
